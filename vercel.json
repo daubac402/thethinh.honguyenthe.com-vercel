@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/thinhnt.hn",
+      "permanent": true
+    }
+  ]
+}
